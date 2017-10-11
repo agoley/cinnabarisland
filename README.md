@@ -1,2 +1,2 @@
 # cinnabarisland
-JavaScript Library for HTTP methods
+Light JavaScript Library for HTTP methods.
